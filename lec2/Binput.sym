@@ -1,0 +1,8 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	POLL              3000
+//	KBSRAddr          3004
+//	KBDRAddr          3005
+
