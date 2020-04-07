@@ -1,0 +1,8 @@
+SSID Signal_strength Max_rate(Mbps)
+IllinoisNet_Guest 50% 1733.3
+COECSLNIGHT_5G 44% 1300
+IllinoisNet 67% 1733.3
+COECSLNIGHT 50% 216.7
+PI_WR700N 13% 150
+COECSL3005 8% 144.4
+eduroam 48% 1733.3
