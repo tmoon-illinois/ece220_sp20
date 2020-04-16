@@ -1,0 +1,9 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	INORDER           3006
+//	DONE              301C
+//	STACK             3021
+//	ND_VAL            3022
+
